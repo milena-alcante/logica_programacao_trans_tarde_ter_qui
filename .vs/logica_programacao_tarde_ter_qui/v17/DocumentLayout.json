@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C33421CD-8D01-4920-9D0F-C624989F5E88}|ex04\\ex04.csproj|c:\\users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33421CD-8D01-4920-9D0F-C624989F5E88}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84CD724A-6F96-4DFD-B4A9-1ACF2D997A6D}|ex02\\ex02.csproj|c:\\users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84CD724A-6F96-4DFD-B4A9-1ACF2D997A6D}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,41 +34,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ex03",
-              "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\ex03.csproj",
-              "RelativeDocumentMoniker": "ex03\\ex03.csproj",
-              "ToolTip": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\ex03.csproj",
-              "RelativeToolTip": "ex03\\ex03.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-14T18:03:48.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ex02",
-              "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\ex02.csproj",
-              "RelativeDocumentMoniker": "ex02\\ex02.csproj",
-              "ToolTip": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\ex02.csproj",
-              "RelativeToolTip": "ex02\\ex02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-14T18:03:44.93Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:14:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex03.csproj",
+              "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\ex03.csproj",
+              "RelativeDocumentMoniker": "ex03\\ex03.csproj",
+              "ToolTip": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\ex03.csproj",
+              "RelativeToolTip": "ex03\\ex03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T18:03:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex02.csproj",
+              "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\ex02.csproj",
+              "RelativeDocumentMoniker": "ex02\\ex02.csproj",
+              "ToolTip": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\ex02.csproj",
+              "RelativeToolTip": "ex02\\ex02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T18:03:44.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "ex03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:59:47.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T17:59:47.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -90,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\milena.alaciole\\source\\repos\\logica_programacao_tarde_ter_qui\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
@@ -98,8 +112,7 @@
               "RelativeToolTip": "ex01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:47:32.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T16:47:32.559Z"
             }
           ]
         }
