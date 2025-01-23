@@ -1,0 +1,15 @@
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\bin\Debug\net8.0\ex9.exe
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\bin\Debug\net8.0\ex9.deps.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\bin\Debug\net8.0\ex9.runtimeconfig.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\bin\Debug\net8.0\ex9.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\bin\Debug\net8.0\ex9.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.AssemblyInfoInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.AssemblyInfo.cs
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.sourcelink.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\refint\ex9.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ex9.genruntimeconfig.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\ex9\obj\Debug\net8.0\ref\ex9.dll
