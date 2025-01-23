@@ -1,0 +1,15 @@
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.AssemblyInfoInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.AssemblyInfo.cs
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.csproj.CoreCompileInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.sourcelink.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\bin\Debug\net8.0\EX 11.exe
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\bin\Debug\net8.0\EX 11.deps.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\bin\Debug\net8.0\EX 11.runtimeconfig.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\bin\Debug\net8.0\EX 11.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\bin\Debug\net8.0\EX 11.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\refint\EX 11.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\EX 11.genruntimeconfig.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 11\obj\Debug\net8.0\ref\EX 11.dll
