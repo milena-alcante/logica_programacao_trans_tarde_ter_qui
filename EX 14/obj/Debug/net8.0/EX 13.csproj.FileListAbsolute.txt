@@ -1,0 +1,15 @@
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\bin\Debug\net8.0\EX 13.exe
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\bin\Debug\net8.0\EX 13.deps.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\bin\Debug\net8.0\EX 13.runtimeconfig.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\bin\Debug\net8.0\EX 13.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\bin\Debug\net8.0\EX 13.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.AssemblyInfoInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.AssemblyInfo.cs
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.csproj.CoreCompileInputs.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.sourcelink.json
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\refint\EX 13.dll
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.pdb
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\EX 13.genruntimeconfig.cache
+C:\Users\milena.alaciole\source\repos\logica_programacao_tarde_ter_qui\EX 14\obj\Debug\net8.0\ref\EX 13.dll
